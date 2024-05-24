@@ -2,10 +2,12 @@
  !</a></h1>
 <h3 align="center">Full Stack Developer(.NET core, . NET Blazor, JAVA, LARAVEL, ANGULAR, NODE.JS)🖥️ 😜</h3>
 
-[![Youtube]([https://img.shields.io/static/v1?label=HeyFlutter&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge](https://www.youtube.com/@bmd.technologies))][youtube]
-[![Twitter Follow]([https://img.shields.io/twitter/follow/HeyFlutter?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge](https://twitter.com/bmdtechnology))][twitter]
-[![GitHub followers]([https://img.shields.io/github/followers/JohannesMilke?logo=GitHub&style=for-the-badge](https://github.com/dioumahb?tab=followers))][github]
-[![Linkedin: Mamadou Diouma II Bah]([[https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/JohannesMilke/](https://www.linkedin.com/in/mamadou-diouma-bah-8669b31b0))](https://media.licdn.com/dms/image/D4D03AQHtF4_P6QMrug/profile-displayphoto-shrink_200_200/0/1707936812703?e=1721865600&v=beta&t=4WNCHXbhn1k4l5EiQvUsSIcmrqPApd2uggE6hWM2xlA)][linkedin]
+[![Youtube](https://img.shields.io/static/v1?label=HeyFlutter&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
+[![Twitter Follow](https://img.shields.io/twitter.com/bmdtechnology?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
+[![GitHub followers](https://img.shields.io/github.com/dioumahb?tab=followers?logo=GitHub&style=for-the-badge)][github]
+[![Linkedin: Mamadou Diouma II Bah](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/mamadou-diouma-bah-8669b31b0/)][linkedin]
+
+Youtube Twitter Follow GitHub followers Linkedin: JohannesMilke
 
 - 🔭 &ensp;Je travaille actuellement sur [**Youtube**][youtube]!
 - 🌱 &ensp;Je suis en train d'apprendre Flutter ❤️
