@@ -2,11 +2,11 @@
  !</a></h1>
 <h3 align="center">Full Stack Developer(.NET core, . NET Blazor, JAVA, LARAVEL, ANGULAR, NODE.JS)🖥️ 😜</h3>
 
-[![Youtube](https://img.shields.io/static/v1?label=HeyFlutter&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
+[![Youtube](https://img.shields.io/static/v1?label=@bmd.technologies&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
 [![GitHub followers](https://img.shields.io/github/followers/dioumahb?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][github]
 [![Linkedin: Mamadou Diouma II Bah](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/mamadou-diouma-bah-8669b31b0/)][linkedin]
 
-Youtube Twitter Follow GitHub followers Linkedin: JohannesMilke
+Youtube Twitter Follow GitHub followers Linkedin: Mamadou Diouma II Bah
 
 - 🔭 &ensp;Je travaille actuellement sur [**Youtube**][youtube]!
 - 🌱 &ensp;Je suis en train d'apprendre Flutter ❤️
