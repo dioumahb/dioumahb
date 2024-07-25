@@ -1,6 +1,25 @@
-<h1 align="center"> Bonjour 👋, Je suis <a href="[https://www.youtube.com/JohannesMilke?sub_confirmation=1](https://www.linkedin.com/in/mamadou-diouma-ii-bah-8669b31b0">Mamadou Diouma II Bah
+<h1 align="center"> Bonjour 👋, Je suis un Full Stack Developer avec une passion pour la création de solutions logicielles robustes et innovantes. Mon expertise couvre une large gamme de technologies, ce qui me permet de travailler efficacement sur des projets variés. Voici un aperçu de mon parcours : <a href="[https://www.youtube.com/JohannesMilke?sub_confirmation=1](https://www.linkedin.com/in/mamadou-diouma-ii-bah-8669b31b0">Mamadou Diouma II Bah
  !</a></h1>
-<h3 align="center">Full Stack Developer(.NET core, . NET Blazor, JAVA, LARAVEL, ANGULAR, NODE.JS)🖥️ 😜</h3>
+<h3 align="center">
+Technologies et Compétences :
+.NET Core & .NET Blazor : Développement d’applications web modernes et performantes avec une solide compréhension des principes de programmation orientée objet.
+Java : Création d'applications backend évolutives et performantes, avec une forte connaissance des frameworks comme Spring Boot.
+Laravel : Développement rapide d’applications PHP avec des fonctionnalités robustes et sécurisées.
+Angular : Conception d'interfaces utilisateur dynamiques et réactives pour des applications web.
+Node.js : Construction de serveurs backend légers et rapides pour des applications à fort trafic.
+Passion et Philosophie :
+Je suis passionné par l’innovation et la résolution de problèmes complexes. J'aime travailler sur des projets qui ont un impact réel et tangible. Mon approche est centrée sur la collaboration et la compréhension des besoins des clients pour offrir des solutions qui répondent vraiment à leurs attentes.
+
+Expériences :
+Avec plusieurs années d'expérience dans le développement web et mobile, j'ai travaillé sur des projets divers allant de systèmes de gestion de contenu à des plateformes de commerce électronique. J'ai également une expérience significative dans la gestion des bases de données, l'intégration d'API, et le déploiement sur des environnements cloud.
+
+Objectifs :
+Je cherche constamment à apprendre et à m'adapter aux nouvelles technologies. Mon objectif est de continuer à évoluer en tant que développeur, en relevant de nouveaux défis et en contribuant à des projets passionnants.
+
+Je suis toujours ouvert aux opportunités de collaboration et aux discussions sur les dernières tendances technologiques. N'hésitez pas à me contacter si vous souhaitez discuter de projets ou simplement échanger sur le développement logiciel !
+
+#FullStackDeveloper #Tech #Innovation #DéveloppementWeb #SoftwareEngineering
+</h3>
 
 
 
