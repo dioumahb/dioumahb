@@ -1,5 +1,5 @@
-<h1 align="center"> Bonjour 👋, Je suis un Full Stack Developer avec une passion pour la création de solutions logicielles robustes et innovantes. Mon expertise couvre une large gamme de technologies, ce qui me permet de travailler efficacement sur des projets variés. Voici un aperçu de mon parcours : <a href="[https://www.youtube.com/JohannesMilke?sub_confirmation=1](https://www.linkedin.com/in/mamadou-diouma-ii-bah-8669b31b0">Mamadou Diouma II Bah
- !</a></h1>
+💻 Tech Stack:
+
 <h5 align="center">
 Technologies et Compétences :
 .NET Core & .NET Blazor : Développement d’applications web modernes et performantes avec une solide compréhension des principes de programmation orientée objet.
